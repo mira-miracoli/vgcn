@@ -17,3 +17,5 @@
 - ansible.builtin.import_playbook: jenkins.yml
 
 - ansible.builtin.import_playbook: external.yml
+
+- ansible.builtin.import_playbook: pxe.yml
