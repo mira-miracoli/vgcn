@@ -10,6 +10,10 @@ collections:
     version: 1.5.0
     source: https://galaxy.ansible.com
     type: galaxy
+  - name: devsec.hardening
+    version: 8.7.0
+    source: https://galaxy.ansible.com
+    type: galaxy
 roles:
   - src: usegalaxy_eu.cuda
     version: 1.2.0
@@ -52,4 +56,3 @@ roles:
   - name: openslx-ng.dracut
     src: https://github.com/mira-miracoli/ansible-dracut
     version: ansible-role
-

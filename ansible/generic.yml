@@ -38,3 +38,4 @@
     - usegalaxy-eu.dynmotd
     - influxdata.chrony
     - usegalaxy-eu.telegraf
+    - name: devsec.hardening.ssh_hardening
